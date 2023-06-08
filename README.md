@@ -4,7 +4,7 @@ Site: [goingforbrooke.com](https://www.goingforbrooke.com)
 
 Twitter: [@goingforbrooke](https://twitter.com/goingforbrooke)
 
-Mastodon: <a rel="me" href="https://hachyderm.io/@goingforbrooke">@goingforbrooke@hachyderm.io</a>
+Mastodon: <a rel="me" href="https://hachyderm.io/@goingforbrooke">@goingforbrooke@hachyderm</a>
 
 <!--
 **goingforbrooke/goingforbrooke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
