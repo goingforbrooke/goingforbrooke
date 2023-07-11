@@ -6,6 +6,9 @@ Twitter: [@goingforbrooke](https://twitter.com/goingforbrooke)
 
 Mastodon: <a rel="me" href="https://hachyderm.io/@goingforbrooke">@goingforbrooke@hachyderm</a>
 
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <!--
 **goingforbrooke/goingforbrooke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
